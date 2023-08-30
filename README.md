@@ -1,4 +1,3 @@
-# py_codes0
+# Telegram_bot
 
-
-I have got some elementary codes from python here. 
+Here is a basic code of telegram bot. This bot translates latin to cyrilic, cyrilic to latin. 
